@@ -1,0 +1,5 @@
+.venv/
+.ipynb_checkpoints/
+__pycache__/
+
+data/final_supermarket_sales.csv
